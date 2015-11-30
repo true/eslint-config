@@ -1,6 +1,6 @@
 # eslint-config-true [![Build Status](https://travis-ci.org/sindresorhus/eslint-config-true.svg?branch=master)](https://travis-ci.org/sindresorhus/eslint-config-true)
 
-> ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for [XO](https://github.com/sindresorhus/xo)
+> ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for [True](https://true.nl)
 
 
 ## Install
@@ -70,4 +70,4 @@ And [`true/react`](react.js) if you want React application to be linted:
 
 ## License
 
-MIT © [True](http://true.nl)
+MIT © [True](https://true.nl)
