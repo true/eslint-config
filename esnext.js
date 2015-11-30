@@ -6,8 +6,6 @@ def = deepAssign({}, def);
 
 def.parser = 'babel-eslint';
 
-def.plugins.push('babel');
-
 def.rules['no-var'] = 2;
 def.rules['prefer-arrow-callback'] = 0;
 def.rules['prefer-const'] = 0;
