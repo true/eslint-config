@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-true",
+  "version": "0.1.0",
+  "description": "ESLint shareable config for True",
+  "license": "MIT",
+  "repository": "true/eslint-config-true",
+  "author": {
+    "name": "Fahad Ibnay Heylaal",
+    "email": "fahad@true.nl",
+    "url": "http://fahad19.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "echo 'test'"
+  },
+  "files": [
+    "index.js",
+    "esnext.js",
+    "browser.js"
+  ],
+  "keywords": [
+    "eslintconfig",
+    "lint"
+  ],
+  "dependencies": {
+    "deep-assign": "^2.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=1.9.0"
+  }
+}
