@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-true",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ESLint shareable config for True",
   "license": "MIT",
   "repository": "true/eslint-config-true",
@@ -15,11 +15,6 @@
   "scripts": {
     "test": "echo 'test'"
   },
-  "files": [
-    "index.js",
-    "esnext.js",
-    "browser.js"
-  ],
   "keywords": [
     "eslintconfig",
     "lint"
