@@ -68,6 +68,18 @@ And [`true/react`](react.js) if you want React application to be linted:
 }
 ```
 
+Or have multiple configs together:
+
+```json
+{
+    "extends": [
+        "true", // base
+        "true/esnext", // ES6/7
+        "true/react" // React/JSX
+    ]
+}
+```
+
 ## License
 
 MIT © [True](https://true.nl)

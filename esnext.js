@@ -6,13 +6,15 @@ def = deepAssign({}, def);
 
 def.parser = 'babel-eslint';
 
+def.plugins.push('babel');
+
 def.rules['no-var'] = 2;
 def.rules['prefer-arrow-callback'] = 0;
 def.rules['prefer-const'] = 0;
 def.rules['prefer-reflect'] = 0;
 def.rules['prefer-template'] = 0;
 def.rules['prefer-spread'] = 0;
-def.rules['babel/object-shorthand'] = [2, 'always'];
+def.rules['babel/object-shorthand'] = 0;
 def.rules['babel/generator-star-spacing'] = def.rules['generator-star-spacing'];
 def.rules['babel/arrow-parens'] = def.rules['arrow-parens'];
 def.rules['babel/object-curly-spacing'] = def.rules['object-curly-spacing'];
