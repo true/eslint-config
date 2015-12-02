@@ -42,15 +42,19 @@ Or to `.eslintrc`:
 }
 ```
 
+### ES6+
+
 Supports parsing ES2015, but doesn't enforce it by default.
 
-This package also exposes [`xo/esnext`](esnext.js) if you want ES2015+ rules:
+This package also exposes [`true/esnext`](esnext.js) if you want ES2015+ rules:
 
 ```json
 {
 	"extends": "true/esnext"
 }
 ```
+
+### Browser
 
 And [`true/browser`](browser.js) if you're in the browser:
 
@@ -60,6 +64,8 @@ And [`true/browser`](browser.js) if you're in the browser:
 }
 ```
 
+### React
+
 And [`true/react`](react.js) if you want React application to be linted:
 
 ```json
@@ -67,6 +73,8 @@ And [`true/react`](react.js) if you want React application to be linted:
     "extends": "true/react"
 }
 ```
+
+### Multiple configs
 
 Or have multiple configs together:
 
