@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-true",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "ESLint shareable config for True",
   "license": "MIT",
   "repository": "true/eslint-config",

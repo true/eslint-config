@@ -70,7 +70,7 @@ And [`true/react`](react.js) if you want React application to be linted:
 
 Or have multiple configs together:
 
-```json
+```
 {
     "extends": [
         "true", // base
