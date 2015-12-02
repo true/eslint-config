@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "description": "ESLint shareable config for True",
   "license": "MIT",
-  "repository": "true/eslint-config-true",
+  "repository": "true/eslint-config",
   "author": {
     "name": "Fahad Ibnay Heylaal",
     "email": "fahad@true.nl",
