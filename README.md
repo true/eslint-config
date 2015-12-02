@@ -1,4 +1,4 @@
-# eslint-config-true [![Build Status](https://travis-ci.org/true/eslint-config.svg?branch=master)](https://travis-ci.org/true/eslint-config-true)
+# eslint-config-true [![Build Status](https://travis-ci.org/true/eslint-config.svg?branch=master)](https://travis-ci.org/true/eslint-config)
 
 > ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for [True](https://true.nl)
 
