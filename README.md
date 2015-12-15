@@ -90,4 +90,4 @@ Or have multiple configs together:
 
 ## License
 
-MIT © [True](https://true.nl)
+MIT © [True B.V.](https://true.nl)
